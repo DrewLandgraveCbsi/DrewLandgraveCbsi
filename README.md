@@ -105,5 +105,3 @@ Part of a small, high-impact Solutions team at the intersection of media and mod
 | ⚡ **Redesign** | Led 247Sports frontend rebuild in React |
 
 ---
-
-*Pianist · Youth mentor · Sports fan*
