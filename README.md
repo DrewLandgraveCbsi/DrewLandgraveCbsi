@@ -12,13 +12,12 @@ Part of a small, high-impact Solutions team at the intersection of media and mod
 
 ## What I'm building
 
-- **CBSVerse Platform** — Next.js 16 / React 19 Turborepo monorepo powering the next generation of CBS Sports web experiences, with a StyleX design system, Mercurius-based GraphQL subgraphs, and Vercel microfrontend architecture
+- **CBSVerse Platform** — Next.js 16 / React 19 Turborepo monorepo powering the next generation of CBS Sports web experiences, with a StyleX design system, Mercurius-based GraphQL subgraphs, and Kubernetes-based microfrontend architecture
 - **GraphQL Supergraph** — Apollo Federation platform with WunderGraph Cosmo router, composing subgraphs across CBS Sports, SportsLine, and 247Sports properties
 - **Feature Flag Platform ("Switchboard")** — full-stack feature flag and A/B testing system with a Prisma/Drizzle-backed admin UI, real-time flag SDK, and GraphQL subscriptions
 - **Centralized Auth** — unified login & registration across CBS Sports, SportsLine, CBSNews, College Sports Live, and 247Sports with Unleash feature flags and reCAPTCHA Enterprise
 - **Eagle Eye** — live vendor feed monitoring and data integrity system for real-time sports data, with SNS/Lambda orchestration and override management
 - **AI Architecture** — production-grade Generative AI and RAG systems driving personalization and intelligent content discovery across the CBS portfolio
-- **Site Replatforming** — migrating legacy PHP/Symfony properties to a modern Next.js + Turborepo stack with Fastly edge routing
 - **Developer Experience** — Nx/Turborepo monorepos, CI/CD automation, semantic release workflows, and AI-first development with Cursor rules, sub-agents, and MCP tooling
 
 ---
@@ -88,6 +87,14 @@ Part of a small, high-impact Solutions team at the intersection of media and mod
 
 </td></tr>
 </table>
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+
+
+
+
+
 
 ---
 
